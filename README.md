@@ -48,5 +48,13 @@ Portfolio: shortly
 
 <hr>
 
-<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=eduardxdc&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="eduardxdc github stats"/>
-<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="eduardxdc github stats"/>
+<div align="center"><br>
+  <a href="https://github.com/putzjuau">
+    <div style="width:30rem">
+      <img height="160em"src="https://github-readme-stats.vercel.app/api?username=eduardxdc&show_icons=true&theme=vesper++&hide_border=true"/>  
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=eduardxdc&theme=vesper++&hide_border=true"/>  
+      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&theme=vesper++&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardxdc&theme=vesper++&hide_border=true&langs_count=5&layout=compact&locale=pt-br" >  
+    </div>
+</div>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=eduardxdc.eduardxdc")/>
