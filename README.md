@@ -41,8 +41,9 @@ Portfolio: shortly
 
 ### UI/UX
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Figma-4479A1?logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-181717?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+  
+  <img src="https://img.shields.io/badge/Figma-E0234E?logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-004088?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
 </div>
 
 <hr>
