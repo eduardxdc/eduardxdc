@@ -39,6 +39,12 @@ Portfolio: shortly
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
+### UI/UX
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Figma-4479A1?logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-4169E1?logo=adobephotoshop&logoColor=blue" alt="Adobe Photoshop"/>
+</div>
+
 <hr>
 
 <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=eduardxdc&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="eduardxdc github stats"/>
