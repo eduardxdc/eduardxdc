@@ -51,10 +51,13 @@ Portfolio: shortly
 <div align="center"><br>
   <a href="https://github.com/eduardxdc">
     <div style="width:30rem">
-      <img height="160em"src="https://github-readme-stats.vercel.app/api?username=eduardxdc&show_icons=true&theme=dracula&hide_border=true"/>  
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=eduardxdc&theme=dracula&hide_border=true"/>  
-      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&theme=dracula&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardxdc&theme=dracula&hide_border=true&langs_count=5&layout=compact&locale=pt-br" >  
+      <img height="160em"src="https://github-readme-stats.vercel.app/api?username=eduardxdc&show_icons=true&theme=dark&hide_border=true"/>  
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=eduardxdc&theme=dark&hide_border=true"/>  
+      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&theme=dark&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardxdc&theme=dark&hide_border=true&langs_count=5&layout=compact&locale=pt-br" >
+      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?eduardxdc=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
     </div>
 </div>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=eduardxdc.eduardxdc")/>
