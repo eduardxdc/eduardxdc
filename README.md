@@ -28,7 +28,7 @@ Portfolio: shortly
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-### infrastructure
+### Infrastructure
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"/>
 </div>
