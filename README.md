@@ -1,4 +1,4 @@
-Hello! My name is Eduardo, as a technology enthusiast I like to solve challenges and explore the world of programming. I believe that "those who do what they love live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area. I am currently studying Systems Analysis and Development at IFPR and work as a Frontend programmer.
+Hello! My name is Eduardo, as a technology enthusiast I like to solve challenges and explore the world of programming. I believe that "those who do what they love live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area. I am currently studying Systems Analysis and Development at @ifpr-umuarama and work as a Frontend programmer.
 
 Portfolio: shortly
 
