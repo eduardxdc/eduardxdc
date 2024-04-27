@@ -55,6 +55,6 @@ Portfolio: shortly
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=eduardxdc&theme=dark&hide_border=true"/>  
       <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&theme=dark&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
     </div>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=eduardxdc.eduardxdc")/>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=eduardxdc.eduardxdc")/></a><br>
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/018ed092-0a0a-4f17-8c80-10dee0267f78.svg)](https://wakatime.com/@018ed092-0a0a-4f17-8c80-10dee0267f78)
