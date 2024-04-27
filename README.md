@@ -1,5 +1,5 @@
-💻 Junior Front-end Developer | ReactJs & Tailwindcss
-🎨 UI Designer | Figma & Photoshop 
+💻 Junior Front-end Developer | ReactJs & Tailwindcss <br>
+🎨 UI Designer | Figma & Photoshop
 
 👨‍💻 As a tech enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area.
 
