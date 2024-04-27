@@ -1,4 +1,9 @@
-Hello! My name is Eduardo, as a technology enthusiast I like to solve challenges and explore the world of programming. I believe that "those who do what they love live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area. I am currently studying Systems Analysis and Development at @ifpr-umuarama and work as a Frontend programmer.
+💻 Junior Front-end Developer | ReactJs & Tailwindcss
+🎨 UI Designer | Figma & Photoshop 
+
+👨‍💻 As a tech enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area.
+
+💾 With a specialty in Front-End development with ReactJs and Tailwindcss and also as a UI Designer of web applications with the use of Figma and Photoshop, I transform ideas into high performance and interactive applications.
 
 Portfolio: shortly
 
