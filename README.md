@@ -1,9 +1,8 @@
-💻 Junior Front-end Developer | ReactJs & Tailwindcss <br>
-🎨 UI Designer | Figma & Photoshop
+🖥️ Junior Backend Developer | NodeJs 
 
-👨‍💻 As a tech enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area.
+👨🏻‍💻 As a technology enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area.
 
-💾 With a specialty in Front-End development with ReactJs and Tailwindcss and also as a UI Designer of web applications with the use of Figma and Photoshop, I transform ideas into high performance and interactive applications.
+👾 With a specialty in Back-end development with NodeJs and also with frameworks such as Express and NestJs for web and desktop applications, I transform ideas into high performance and security applications.
 
 Portfolio: shortly
 
@@ -17,14 +16,26 @@ Portfolio: shortly
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white" alt="JQuery"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>
 </div>
 
 ### Back-end
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
+</div>
+
+### API
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/>
+</div>
+
+### Test
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest"/>
 </div>
 
 ### Version control
@@ -44,11 +55,9 @@ Portfolio: shortly
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
-### UI/UX
+### UI
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  
   <img src="https://img.shields.io/badge/Figma-E0234E?logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-004088?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
 </div>
 
 <hr>
