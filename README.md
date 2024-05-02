@@ -4,7 +4,7 @@
 
 👾 | With a specialty in Back-end development with NodeJs and also with frameworks such as Express and NestJs for web and desktop applications, I transform ideas into high performance and security applications.
 
-Portfolio: [www.eduardxdc.com](https://eduardxdc.github.io/portfolio/) <br> <br>
+Page: [www.eduardxdc.com](https://eduardxdc.github.io/portfolio/) <br> <br>
 E-mail: [![Gmail Badge](https://img.shields.io/badge/-dev@eduardxdc.com-2D3748?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dev@eduardxdc.com)
 
 <hr>
