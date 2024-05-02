@@ -9,60 +9,6 @@ E-mail: [![Gmail Badge](https://img.shields.io/badge/-dev@eduardxdc.com-2D3748?s
 
 <hr>
 
-## Skills
-
-### Front-end
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>
-</div>
-
-### Back-end
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
-</div>
-
-### API
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/>
-</div>
-
-### Test
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest"/>
-</div>
-
-### Version control
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-</div>
-
-### Infrastructure
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"/>
-</div>
-
-### Database
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
-
-### UI
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Figma-E0234E?logo=figma&logoColor=white" alt="Figma"/>
-</div>
-
-<hr>
-
 <div align="center"><br>
   <a href="https://github.com/eduardxdc">
     <div style="width:30rem">
