@@ -1,4 +1,5 @@
-🖥️ | Junior Backend Developer | NodeJs 
+🖥️ | Junior Frontend Developer <br>
+🎨 | UI Designer
 
 👨🏻‍💻 | As a technology enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area.
 
