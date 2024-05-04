@@ -28,6 +28,6 @@ Page: [www.eduardxdc.com](https://eduardxdc.github.io/portfolio/) <br> <br>
     <div style="width:50rem"> 
       <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=eduardxdc&theme=dark&hide_border=true"/>  
       <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&theme=dark&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
-  </div>
+  </div> <br>
     
 <a href="https://wakatime.com/@018ed092-0a0a-4f17-8c80-10dee0267f78"><img align="center" src="https://wakatime.com/badge/user/018ed092-0a0a-4f17-8c80-10dee0267f78.svg" alt="Total time coded since Apr 12 2024" /></a>
