@@ -9,8 +9,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eduardxdc/)
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/eduardxdc/)
-<a href="https://wa.me/44988438899" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a>
 [![Gmail](https://img.shields.io/badge/eduardxdc@proton.me-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:eduardxdc@proton.me)
 
 </div>
