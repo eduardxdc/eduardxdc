@@ -1,8 +1,8 @@
-🖤 | Software Engineer <br>
+🖥️ | Software Engineer <br>
 
 🎲 | As a technology enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area. 
 
-🎱 | Specializing in the Javascript ecosystem, I develop web, mobile and desktop applications, transforming ideas into interactive, high-performance applications.
+🎱 | Specializing in the C# & .NET ecosystem, I develop web, mobile and desktop applications, transforming ideas into interactive, high-performance applications.
 
 <br>
 
