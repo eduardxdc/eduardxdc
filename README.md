@@ -1,6 +1,6 @@
 🖥️ | Software Engineer <br>
 
-🎲 | As a technology enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on vacation", and that's why I'm constantly looking for new knowledge to improve myself within this area. 
+🎲 | As a tech enthusiast, I enjoy solving challenges and exploring the world of programming. I believe that "those who do what they like live on holiday", and so I am constantly looking for new knowledge to improve myself in this area. In short, I'm just a minimalist with a passion for technology and football.
 
 🎱 | Specializing in the C# & .NET ecosystem, I develop web, mobile and desktop applications, transforming ideas into interactive, high-performance applications.
 
