@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/eduardxdc/">🖥️<a/> | .NET Software Engineer <br>
+<a href="https://www.linkedin.com/in/eduardxdc/">🖥️<a/> | Software Engineer <br>
 
 <a href="https://www.linkedin.com/in/eduardxdc/">🎲</a> | Passionate about football, minimalist and technology, I believe that "those who do what they like live on holiday", and that's why I'm constantly looking for new knowledge to improve myself at all times. Specializing in the C# & .NET ecosystem, I develop web, mobile and desktop applications, transforming ideas into interactive, high-performance applications.
 
