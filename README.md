@@ -8,7 +8,7 @@
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-white?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eduardxdc/)
   [![Proton Mail](https://img.shields.io/badge/eduardxdc@proton.me-white?logo=protonmail&logoColor=black)](mailto:eduardxdc@proton.me)
  [![wakatime](https://wakatime.com/badge/user/16170d60-30f7-4132-a780-238fcb266b9d.svg)](https://wakatime.com/@16170d60-30f7-4132-a780-238fcb266b9d)
-  
+ 
 </div>
 
 <hr>
