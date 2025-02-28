@@ -5,7 +5,9 @@
 <br>
 
 <div align="center">
+
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-white?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eduardxdc/)
+
 
 [![ProtonMail](https://img.shields.io/badge/eduardxdc@proton.me-white?logo=protonmail&logoColor=black)](mailto:eduardxdc@proton.me)
 
