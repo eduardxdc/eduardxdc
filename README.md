@@ -27,4 +27,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardxdc&theme=graywhite&hide_border=true&layout=compact&langs_count=5&locale=en" 
   />
 </a>
-
