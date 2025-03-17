@@ -1,6 +1,6 @@
-• C#/.NET Full Stack Developer <br>
+• Full Stack Developer <br>
 
-• Passionate about football, minimalist and technology, I believe that "those who do what they like live on holiday", and that's why I'm constantly looking for new knowledge to improve myself at all times. Specializing in the C# & .NET ecosystem, I develop web, mobile and desktop applications, transforming ideas into interactive, high-performance applications.
+• Passionate about football, minimalist and technology, I believe that "those who do what they like live on holiday", and that's why I'm constantly looking for new knowledge to improve myself at all times. Specializing in the JavaScript ecosystem, I develop web, mobile and desktop applications, transforming ideas into interactive, high-performance applications.
 
 <br>
 
